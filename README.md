@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # AddTailwind
+*install tailwind css via gem
